@@ -1,1 +1,2 @@
-let us see if git works!
+git works successfully
+now let's use github
