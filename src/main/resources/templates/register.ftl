@@ -7,7 +7,8 @@
         <tr><td>password:<input type="text" name="password"></td></tr>
         <tr><td><input type="submit" name="register"></td></tr>
     </table>
-    <font color="red">${status}</font>
+    <font color="red">${status!}</font>
+
 </form>
 </body>
 </html>
